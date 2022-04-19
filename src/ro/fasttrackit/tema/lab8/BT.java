@@ -1,4 +1,4 @@
-package ro.fasttrackit.lab8.tema2;
+package ro.fasttrackit.tema.lab8;
 
 public class BT implements Bank {
     private int credit;

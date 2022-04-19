@@ -1,4 +1,4 @@
-package ro.fasttrackit.lab8.tema2;
+package ro.fasttrackit.tema.lab8;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;
